@@ -1,3 +1,5 @@
 Buenas tardes, mi nombre es Nicolás Jaiquel, voy a ser desarrollador de software y espero recorrer el mundo.
 
 Aprendí a programar a mis 14 años debido al inconmensurable aburrimiento que me causaba estar encerrado debido a la pandemía. Todo esto acompañado de mi primer y más querido lenguaje, C#.
+
+Hoy en día, soy un joven de 16 años con el sueño de dar conferencias de desarrollo en auditorios importantes y crear mi propia empresa dedicada al desarrollo de software. También me gustaría viajar a distintas del planeta tierra y ¿Por que no? Salir del mismo en algún moment0.
