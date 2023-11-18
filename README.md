@@ -1,4 +1,4 @@
-# NicoBlog 🐅🐅
+# NicoBlog 🐆🐆
 
 Es un blog creado por nicxlasj desde una pequeña maquina virtual de Ubuntu, todo esto con el propósito de aprender git y github con el curso de freddier. Claramente lo consiguió y ahora más que nunca quiere seguir aprendiendo hasta el fin de sus días.
 
